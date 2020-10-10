@@ -5,6 +5,8 @@
 - 💬 Ask me about anything coding related!
 - 😄 Pronouns: Ultra, Mike
 
+<br/>
+
 ## 🌐 Languages
 <p>
   <code><img height="25" src="./resources/svg/program_languages/java.svg" alt="Java" ></code>
@@ -13,18 +15,25 @@
   <code><img height="25" src="./resources/svg/program_languages/python.svg" alt="Python" ></code>
 </p>
 
+<br/>
+
 ## 🛠️ Tools
 <p>
   <code><img height="25" src="./resources/svg/program_enviroments/intellij_idea.svg" alt="InteliJ IDEA" ></code>
   <code><img height="25" src="./resources/svg/program_enviroments/vs2019.svg" alt="Visual Studio 2019" ></code>
 </p>
 
+<br/>
+
 ## 📫 Contact
 [<img align="left" height="25" src="./resources/svg/socials/linkedin.svg" alt="LinkedIn" />][linkedin]
 [<img align="left" height="25" src="./resources/svg/socials/discord.svg" alt="Discord" />][discord]
 [<img align="left" height="25" src="./resources/svg/socials/instagram.svg" alt="Instagram" />][instagram]
 
+<br/>
+
 ---
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/UltraGameCoder/UltraGameCoder">
