@@ -12,7 +12,10 @@
   <code><img height="25" src="./resources/svg/program_languages/java.svg" alt="Java" ></code>
   <code><img height="25" src="./resources/png/program_languages/csharp.png" alt="CSharp" ></code>
   <code><img height="25" src="./resources/svg/program_languages/cplusplus.svg" alt="C++" ></code>
+  <code><img height="25" src="./resources/svg/program_languages/c.svg" alt="C" ></code>
+  <code><img height="25" src="./resources/svg/program_languages/objective-c.svg" alt="Objective-C" ></code>
   <code><img height="25" src="./resources/svg/program_languages/python.svg" alt="Python" ></code>
+  <code><img height="25" src="./resources/svg/program_languages/processing3.svg" alt="Processing 3" ></code>
 </p>
 
 <br/>
@@ -22,6 +25,10 @@
   <code><img height="25" src="./resources/svg/program_enviroments/intellij_idea.svg" alt="InteliJ IDEA" ></code>
   <code><img height="25" src="./resources/svg/program_enviroments/vs2019.svg" alt="Visual Studio 2019" ></code>
 </p>
+
+## 📝 Methodologies
+
+- Agile
 
 <br/>
 
@@ -37,7 +44,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/UltraGameCoder/UltraGameCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraGameCoder&hide=javascript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraGameCoder&hide=javascript,html,objective-c,c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/UltraGameCoder/UltraGameCoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UltraGameCoder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ultra's GitHub Stats" />
