@@ -26,6 +26,13 @@
   <code><img height="25" src="./resources/svg/document_enviroments/msoffice365_2019.svg" alt="Microsoft Office 365" ></code>
 </p>
 
+## 📚 Libraries
+
+<p>
+  <code><img height="25" src="./resources/png/program_libraries/spigot.png" alt="Spigot" ></code>
+  <code><img height="25" src="./resources/svg/program_libraries/opengl.svg" alt="OpenGL" ></code>
+</p>
+
 ## 📑 Trainings / Courses / Certificates 
 
 - [Audinate](https://www.audinate.com/) (Dante Certification)
