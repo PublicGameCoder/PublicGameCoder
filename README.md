@@ -21,9 +21,9 @@
 
 ## 📫 Contact
 <p>
-  [<img align="left" alt="LinkedIn" height="25" src="./resources/svg/socials/linkedin.svg" />][linkedin]
-  [<img align="left" alt="LinkedIn" height="25" src="./resources/svg/socials/discord.svg" />][discord]
-  [<img align="left" alt="LinkedIn" height="25" src="./resources/svg/socials/instagram.svg" />][instagram]
+  [<img align="left" height="25" src="./resources/svg/socials/linkedin.svg" alt="LinkedIn"/>][linkedin]
+  [<img align="left" height="25" src="./resources/svg/socials/discord.svg" alt="Discord"/>][discord]
+  [<img align="left" height="25" src="./resources/svg/socials/instagram.svg" alt="Instagram"/>][instagram]
 </p>
 
 
