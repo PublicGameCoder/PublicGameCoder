@@ -26,6 +26,10 @@
   [<img align="left" alt="LinkedIn" height="25" src="./resources/svg/socials/instagram.svg" />][instagram]
 </p>
 
+
+
+
+
 [education]: https://www.hanze.nl/nld/onderwijs/techniek/instituut-voor-communicatie-media--it/opleidingen/bachelor/hbo-ict
 [tapple]: https://tapple.world/
 [linkedin]: https://www.linkedin.com/in/mike-de-groot-2b55381a3/
