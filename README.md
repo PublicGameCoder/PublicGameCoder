@@ -24,8 +24,17 @@
 [<img align="left" height="25" src="./resources/svg/socials/discord.svg" alt="Discord" />][discord]
 [<img align="left" height="25" src="./resources/svg/socials/instagram.svg" alt="Instagram" />][instagram]
 
+---
+## 📈 GitHub Stats
 
+<a href="https://github.com/UltraGameCoder/UltraGameCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraGameCoder&hide=javascript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/UltraGameCoder/UltraGameCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UltraGameCoder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ultra's GitHub Stats" />
+</a>
 
+<!-- links to social media profiles -->
 
 [education]: https://www.hanze.nl/nld/onderwijs/techniek/instituut-voor-communicatie-media--it/opleidingen/bachelor/hbo-ict
 [tapple]: https://tapple.world/
