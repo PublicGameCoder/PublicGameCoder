@@ -5,8 +5,6 @@
 - 💬 Ask me about anything coding related!
 - 😄 Pronouns: Ultra, Mike
 
-<br/>
-
 ## 🌐 Languages
 
 <p>
@@ -34,13 +32,13 @@
 ## 📑 Trainings / Courses / Certificates 
 
 - [Audinate](https://www.audinate.com/) (Dante Certification)
- - Dante Certification Level 1 2019 (Course)
- - Dante Certification Level 2 2019 (Course)
+	- Dante Certification Level 1 2019 (Course)
+	- Dante Certification Level 2 2019 (Course)
 
 - [GGJ](https://globalgamejam.org/) (Global Game Jam)
- - Certificate of participation GGJ Groningen 2017 2017 (Event)
- - Certificate of participation GGJ Groningen 2018 2018 (Event)
- - Certificate of participation GGJ Groningen 2019 2019 (Event)
+	- Certificate of participation GGJ Groningen 2017 2017 (Event)
+	- Certificate of participation GGJ Groningen 2018 2018 (Event)
+	- Certificate of participation GGJ Groningen 2019 2019 (Event)
 
 - Digitale Werkplaats (Google), Biotoop Haren 2017 (Workshop) 
 
