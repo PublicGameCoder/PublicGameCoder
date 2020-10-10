@@ -20,13 +20,9 @@
 </p>
 
 ## 📫 Contact
-<p>
-  [<img align="left" src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-  <img align="left" height="25" src="./resources/svg/socials/linkedin.svg" alt="LinkedIn" onclick="window.open('https://www.linkedin.com/in/mike-de-groot-2b55381a3/', '_blank');" />
-  <img align="left" height="25" src="./resources/svg/socials/discord.svg" alt="Discord" onclick="window.open('https://discord.com/users/207829102881669120', '_blank');" />
-  <img align="left" height="25" src="./resources/svg/socials/instagram.svg" alt="Instagram" onclick="window.open('https://www.instagram.com/mikedegroot793/', '_blank');" />
-</p>
-
+[<img align="left" height="25" src="./resources/svg/socials/linkedin.svg" alt="LinkedIn" />][linkedin]
+[<img align="left" height="25" src="./resources/svg/socials/discord.svg" alt="Discord" />][discord]
+[<img align="left" height="25" src="./resources/svg/socials/instagram.svg" alt="Instagram" />][instagram]
 
 
 
