@@ -10,6 +10,7 @@
 <p>
   <code><img height="25" src="./resources/svg/program_languages/java.svg" alt="Java" ></code>
   <code><img height="25" src="./resources/png/program_languages/csharp.png" alt="CSharp" ></code>
+  <code><img height="25" src="./resources/png/program_languages/mysql.png" alt="MySQL" ></code>
   <code><img height="25" src="./resources/svg/program_languages/cplusplus.svg" alt="C++" ></code>
   <code><img height="25" src="./resources/svg/program_languages/c.svg" alt="C" ></code>
   <code><img height="25" src="./resources/svg/program_languages/python.svg" alt="Python" ></code>
@@ -24,10 +25,6 @@
   <code><img height="25" src="./resources/svg/program_enviroments/vs2019.svg" alt="Visual Studio 2019" ></code>
   <code><img height="25" src="./resources/svg/document_enviroments/msoffice365_2019.svg" alt="Microsoft Office 365" ></code>
 </p>
-
-## 📝 Methodologies
-
-- Agile
 
 ## 📑 Trainings / Courses / Certificates 
 
