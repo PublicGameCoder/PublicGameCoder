@@ -36,9 +36,9 @@
 	- Dante Certification Level 2 2019 (Course)
 
 - [GGJ](https://globalgamejam.org/) (Global Game Jam)
-	- Certificate of participation GGJ Groningen 2017 2017 (Event)
-	- Certificate of participation GGJ Groningen 2018 2018 (Event)
-	- Certificate of participation GGJ Groningen 2019 2019 (Event)
+	- Certificate of participation GGJ Groningen 2017 (Event)
+	- Certificate of participation GGJ Groningen 2018 (Event)
+	- Certificate of participation GGJ Groningen 2019 (Event)
 
 - Digitale Werkplaats (Google), Biotoop Haren 2017 (Workshop) 
 
@@ -54,10 +54,11 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/UltraGameCoder/UltraGameCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraGameCoder&hide=html,objective-c,c&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=UltraGameCoder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ultra's GitHub Stats" />
 </a>
+
 <a href="https://github.com/UltraGameCoder/UltraGameCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UltraGameCoder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ultra's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraGameCoder&hide=html,objective-c,c&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media profiles -->
