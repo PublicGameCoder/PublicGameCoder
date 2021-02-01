@@ -43,6 +43,7 @@
 	- Certificate of participation GGJ Groningen 2017 (Event)
 	- Certificate of participation GGJ Groningen 2018 (Event)
 	- Certificate of participation GGJ Groningen 2019 (Event)
+	- Certificate of participation GGJ Groningen 2020 (Event)
 
 - Digitale Werkplaats (Google), Biotoop Haren 2017 (Workshop) 
 
