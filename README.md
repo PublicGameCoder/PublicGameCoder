@@ -1,7 +1,7 @@
 ### 👋 Hello there, I'm Mike aka Ultra
 
 - 🎓 I’m currently learning a [Bachelor degree in HBO-ICT][education]
-- 🔭 I’m currently working for [Tapple][tapple]
+- 🔭 I’m currently unemployed but following a Java course at [CodeGorilla][codegorilla]
 - 💬 Ask me about anything coding related!
 - 😄 Pronouns: Ultra, Mike
 
@@ -69,7 +69,7 @@
 <!-- links to social media profiles -->
 
 [education]: https://www.hanze.nl/nld/onderwijs/techniek/instituut-voor-communicatie-media--it/opleidingen/bachelor/hbo-ict
-[tapple]: https://tapple.world/
+[codegorilla]: https://codegorilla.nl/
 [linkedin]: https://www.linkedin.com/in/mike-de-groot-2b55381a3/
 [discord]: https://discord.com/users/207829102881669120
 [instagram]: https://www.instagram.com/mikedegroot793/
